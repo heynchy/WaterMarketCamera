@@ -1,0 +1,2 @@
+# WaterMarketCamera
+基于PictureSelector拍照框架，完成水印相机的基础功能开发
